@@ -7,7 +7,7 @@
 <a href="https://github.com/Adilson0001">  
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=adilson0001&show_icons=true&theme=midnight-purple" />
 </a>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adilson0001&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adilson0001&langs_count=8&card_width=320&theme=midnight-purple" />
 
 </div>
 
