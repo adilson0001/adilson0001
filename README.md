@@ -14,9 +14,8 @@
 <br>
 <!-- badges -->
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="61px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="61px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="61px" /> 
+<img src="https://skillicons.dev/icons?i=html,css,mysql,cs,python"/>
+  
 </div>
 
 <br>
@@ -24,20 +23,22 @@
 <h1>Formas de Contato</h1>
 
 <a href="https://www.linkedin.com/in/adilsondejesus/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="100px" />
-</a>
-<br>
-<a href="https://mail.google.com/mail/?view=cm&to=adilsonprofissional343@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<picture>
+<a href="https://mail.google.com/mail/?view=cm&to=adilsonprofissional343@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adilson0001/adilson0001/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adilson0001/adilson0001/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adilson0001/adilson0001/output/github-contribution-grid-snake.svg">
 </picture>
-</picture>
+
 
 
 
