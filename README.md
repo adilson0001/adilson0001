@@ -14,7 +14,7 @@
 <br>
 <!-- badges -->
 <div>
-<img src="https://skillicons.dev/icons?i=html,css,mysql,cs,python"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,mysql,python"/>
   
 </div>
 
