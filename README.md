@@ -14,7 +14,7 @@
 <br>
 <!-- badges -->
 <div>
-<img src="https://skillicons.dev/icons?i=html,css,js,python"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,tailwind"/>
   
 </div>
 
