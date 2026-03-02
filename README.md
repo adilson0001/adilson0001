@@ -1,43 +1,45 @@
+# Olá! Meu nome é Adilson ✌️
 
-<h1>Olá! meu nome é Adilson 😁</h1>
+### 🎓 Estudante de DSM | Next.js • React • Node.js 🚀 | Aprendendo mais a cada dia 🧩
 
-<br>
-<!-- tabelas -->
-<div>
-<a href="https://github.com/Adilson0001">  
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=adilson0001&show_icons=true&theme=midnight-purple&date=2024-05-15" />
-</a>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adilson0001&langs_count=8&card_width=320&theme=midnight-purple&date=2024-05-15" />
+Sou estudante de **Desenvolvimento de Software Multiplataforma**. Atualmente focado em aprender mais sobre **Next.js** e **React** para facilitar o desenvolvimento de aplicações que sejam eficazes para solucionar problemas reais.
 
-</div>
+---
 
-<br>
-<!-- badges -->
-<div>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,tailwind"/>
-  
-</div>
+### 🛠️ Minhas Tecnologias:
 
-<br>
+#### 🌐 **Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" />
 
-<h1>Formas de Contato</h1>
+#### ⚙️ **Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,python&theme=dark" />
 
-<a href="https://www.linkedin.com/in/adilsondejesus/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+#### 🔧 **Outras Ferramentas**
+<img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" />
 
-<a href="https://mail.google.com/mail/?view=cm&to=adilsonprofissional343@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
 
-<br>
-
-
+### 🐍 Minhas Contribuições: 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adilson0001/adilson0001/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adilson0001/adilson0001/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adilson0001/adilson0001/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+### 📫 Vamos nos conectar?
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/adilsondejesus/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&to=adilsonprofissional343@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<br />
 
 
 
