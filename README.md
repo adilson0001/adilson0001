@@ -1,6 +1,6 @@
 # Olá! Meu nome é Adilson ✌️
 
-### 🎓 Estudante de DSM | Next.js • React • Node.js 🚀 | Aprendendo mais a cada dia 🧩
+### 🎓 Estudante de DSM |  React • Node.js  | Aprendendo mais a cada dia 
 
 Sou estudante de **Desenvolvimento de Software Multiplataforma**. Atualmente focado em aprender mais sobre **Next.js** e **React** para facilitar o desenvolvimento de aplicações que sejam eficazes para solucionar problemas reais.
 
