@@ -9,13 +9,13 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma**. Atualmente foc
 ### 🛠️ Minhas Tecnologias:
 
 #### 🌐 **Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
 
 #### ⚙️ **Backend**
-<img src="https://skillicons.dev/icons?i=nodejs,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
 #### 🔧 **Outras Ferramentas**
-<img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,vscode,github&theme=dark" />
 
 ---
 
