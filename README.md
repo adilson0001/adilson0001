@@ -15,7 +15,7 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma**. Atualmente foc
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
 #### 🔧 **Outras Ferramentas**
-<img src="https://skillicons.dev/icons?i=git,vscode,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,vscode,github,postman&theme=dark" />
 
 ---
 
